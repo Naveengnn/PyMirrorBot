@@ -20,7 +20,7 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 - Index Link support
 - List will be uploaded in telegraph
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmineSoukara/PyMirrorBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Naveengnn/PyMirrorBot)
 
 # Bot commands to be set in botfather
 
